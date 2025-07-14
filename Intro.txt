@@ -1,0 +1,5 @@
+Hello, This is just a git and github setup practice. 
+Things i would like to study:
+    1. Full Stack WEB-DEV
+    2. C++ For Competitive Programming
+    3. AI, ML, DL 
